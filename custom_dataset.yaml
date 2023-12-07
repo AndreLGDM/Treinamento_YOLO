@@ -1,0 +1,16 @@
+path: C:/Users/André/Documents/Treinamento/Treinamento_YOLO/data/Arroz
+train: treino
+val: valido
+
+names:
+  0: polido
+  1: gessado100
+  2: amarelo creme
+  3: amarelo forte
+  4: gessado25
+  5: gessado50
+  6: gessado75
+  7: manchado
+  8: picado
+  9: rajado
+  10: ardido
