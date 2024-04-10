@@ -3,14 +3,14 @@ train: treino
 val: valido
 
 names:
-  0: polido
-  1: gessado100
-  2: amarelo creme
-  3: amarelo forte
-  4: gessado25
-  5: gessado50
-  6: gessado75
-  7: manchado
-  8: picado
-  9: rajado
-  10: ardido
+  0: Polido
+  1: Gessado 100
+  2: Gessado 75
+  3: Gessado 50
+  4: Gessado 25
+  5: Amarelo Creme
+  6: Amarelo Forte
+  7: Manchado
+  8: Picado
+  9: Rajado
+  10: Ardido

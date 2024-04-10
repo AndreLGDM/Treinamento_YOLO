@@ -1,11 +1,11 @@
-polido
-gessado100
-amarelo creme
-amarelo forte
-gessado25
-gessado50
-gessado75
-manchado
-picado
-rajado
-ardido
+Polido
+Gessado 100
+Gessado 75
+Gessado 50
+Gessado 25
+Amarelo Creme
+Amarelo Forte
+Manchado
+Picado
+Rajado
+Ardido
